@@ -16,7 +16,7 @@
 ## 🚀 Kurulum ve Kullanım
 
 1. [Releases](https://github.com/ozknozn33/MyKlinik360-Uploader/releases) sayfasından en son sürümü indirin — kurulum dosyası şu adlandırmayla yayınlanır:
-   `myklinik360-uploader-setup-<versiyon>.exe` (örn. `myklinik360-uploader-setup-1.0.0.exe`)
+   `myklinik360-uploader-setup-v<versiyon>.exe` (örn. `myklinik360-uploader-setup-v1.0.0.exe`)
 2. İndirdiğiniz `.exe` dosyasını çalıştırarak kurulumu tamamlayın.
 3. Uygulamayı açın ve MyKlinik360 hesap bilgilerinizle giriş yapın.
 4. Röntgen filmlerinin kaydedildiği yerel klasörü seçerek senkronizasyonu başlatın.
